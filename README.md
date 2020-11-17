@@ -11,6 +11,7 @@ Maker Media GmbH
 Zu Weihnachten Schneekugeln basteln? Papperlapapp, das ist doch altmodisch. Wir bauen Sturmkugeln! Dieser wirbelnde Sturm für den Schreibtisch bringt eine magnetische Strudelfunktion und LED-Blitze mit.
 
 ![Picture](https://github.com/MakeMagazinDE/Gewitterkugel/blob/master/Gewitterkugel.jpg)
+_(Bild: John Thurmond)_
 
 Abgeleitet vom [Adafruit Bluetooth Snow Globe guide](https://learn.adafruit.com/snow-globe-bluefruit-cpb/code-the-bluetooth-snow-globe) – bitte die hier gegebenen Instruktionen (englisch) befolgen, um CircuitPython und die erforderlichen Bibliotheken zu installieren.
 
